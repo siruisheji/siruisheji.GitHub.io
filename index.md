@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/siruisheji/siruisheji.GitH
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+思锐设计成立于2015年，主要探索的方向是 商业策划、营销计划和
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
