@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 思锐设计
 
 You can use the [editor on GitHub](https://github.com/siruisheji/siruisheji.GitHub.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
